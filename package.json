@@ -1,0 +1,14 @@
+{
+    "name": "ec-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "ec"
+    },
+    "author": "Max Strübing <mxstrbng@gmail.com> (https://github.com/mstruebing)",
+    "license": "MIT",
+    "devDependencies": {
+        "editorconfig-checker": "^3.2.0"
+    }
+}
